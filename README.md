@@ -1,7 +1,8 @@
 # E-Commerce Funnel & Category Performance Analysis
 
 
-*A snapshot of the final Power BI Dashboard showing the 6.6% elite conversion rate vs. the 70% cart abandonment leak.*
+(https://app.powerbi.com/view?r=eyJrIjoiMTI3YzY3ZmUtMzU1MC00YTMyLWE5ZTAtYTY2NDllNGE3MGJlIiwidCI6IjM5ZTBjZjljLTBiZTktNGFkNS1hOWIwLTEwZGE2Y2QzYzlkMiJ9)
+*Power Bi report*
 
 ## Summary
 
@@ -75,8 +76,7 @@ Investigation: Audit the checkout UI for unnecessary clicks or forced account cr
 
 2. Portfolio Optimization: The "Focus" Strategy
 
-Double Down On Popular Products: Aggressively feature high-velocity items (Gloves, Cartridges, Cosmetic Bags) on the Homepage and in "Frequently Bought Together" widgets. These are your cash cows.
-Cut the less popular products: Stop all ad spend on Furniture and Sport categories immediately. Consider de-listing sport.diving entirely to streamline the user experience and focus the brand on Beauty/Utility.
+Double Down On Popular Products: Aggressively feature high-velocity items (Gloves, Cartridges, Cosmetic Bags) on the Homepage and in "Frequently Bought Together" widgets. 
 
-│   └── dashboard_screenshot.png
-└── README.md
+These are your cash cows.
+Cut the less popular products: Stop all ad spend on Furniture and Sport categories immediately. Consider de-listing sport.diving entirely to streamline the user experience and focus the brand on Beauty/Utility.
